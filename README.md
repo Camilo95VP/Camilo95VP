@@ -1,5 +1,4 @@
-### Hola 👋
-# :man_technologist: Juan Camilo Castañeda Castro
+# :man_technologist: Juan Camilo Castañeda Castro 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilo-castro-744b861b2/)](https://www.linkedin.com/in/camilo-castro-744b861b2//)
