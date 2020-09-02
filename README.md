@@ -9,7 +9,7 @@
 
      Bienvenido a mi perfil de GitHub donde encontraras diferentes proyectos.
     /
-     Actualmente en proceso de formacion con Academia Geek.
+     Actualmente en proceso de formación con Academia Geek.
     
 ## Conocimientos / Habilidades
 
