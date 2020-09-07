@@ -7,9 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiloflstudio@gmail.com)](mailto:camiloflstudio@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:juank-astro@hotmail.com)](mailto:juank-astro@hotmail.com)
 
-     Bienvenido a mi perfil de GitHub donde encontraras diferentes proyectos.
+     Bienvenido a mi perfil de GitHub.
     /
-     Actualmente en proceso de formación con Academia Geek.
+     Estudiante en proceso de formación con Academia Geek.
     
 ## Conocimientos / Habilidades
 
