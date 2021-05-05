@@ -7,9 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiloflstudio@gmail.com)](mailto:camiloflstudio@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:juank-astro@hotmail.com)](mailto:juank-astro@hotmail.com)
 
-     Bienvenid@ a mi perfil de GitHub.
-    /
-     Estudiante en proceso de formación MisionTIC 2022 UdeA.
+     Bienvenid@ a mi perfil de GitHub. / Estudiante en proceso de formación MisionTIC 2022 UdeA.
     
 ## Conocimientos / Habilidades
 
