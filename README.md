@@ -9,7 +9,7 @@
 
      Bienvenid@ a mi perfil de GitHub.
     /
-     Estudiante en proceso de formación con Academia Geek.
+     Estudiante en proceso de formación MisionTIC 2022 UdeA.
     
 ## Conocimientos / Habilidades
 
